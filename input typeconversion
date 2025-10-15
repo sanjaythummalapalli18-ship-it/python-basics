@@ -1,0 +1,4 @@
+# Taking input
+num = input("Enter a number: ")
+num = int(num)
+print("Square is:", num ** 2)
